@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+C:\BookStore\src\java\BookStore\EditRecord.java,BookStore.EditRecord,"doGet/2[BookStore.HttpServletRequest,BookStore.HttpServletResponse]",st,4
+C:\BookStore\src\java\BookStore\EditRecord.java,BookStore.EditRecord,"doGet/2[BookStore.HttpServletRequest,BookStore.HttpServletResponse]",res,2
+C:\BookStore\src\java\BookStore\EditRecord.java,BookStore.EditRecord,"doGet/2[BookStore.HttpServletRequest,BookStore.HttpServletResponse]",conn,4
